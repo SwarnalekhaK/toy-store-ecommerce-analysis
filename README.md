@@ -1,8 +1,8 @@
-# 🧸 Toy Store E-Commerce Analysis
+# 🧸 Toy Store E-Commerce Dataset Analysis
 
 ## 📌 Project Overview
 
-### Toy Store E-Commerce Database
+### Toy Store E-Commerce Database (Source: Maven Analytics)
 
 This project uses the **Maven Fuzzy Factory** e-commerce database, an online retailer that sells teddy bears.
 
